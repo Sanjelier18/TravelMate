@@ -1,0 +1,12 @@
+{
+  "name": "travelmate",
+  "version": "1.0.0",
+  "description": "Sistem Pemesanan Tiket Kereta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
